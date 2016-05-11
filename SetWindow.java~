@@ -1,0 +1,4 @@
+public class SetWindow{
+  public SetWindow(String s){
+  }
+}
